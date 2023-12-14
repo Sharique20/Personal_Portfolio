@@ -1,4 +1,4 @@
 Portfolio Website
 
-Live Link(https://khanafzal17.github.io/Personal_Portfolio/)
+Live Link - https://sharique20.github.io/Personal_Portfolio/
 
